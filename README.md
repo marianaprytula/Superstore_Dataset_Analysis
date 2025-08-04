@@ -14,7 +14,7 @@
 
 Basic Dataset Preprocessing and Preparation: 
 
-- At first, the columns' types were checked. Also, the presence of missing, null, and duplicated values was investigated. Several data types were changed (e.g., to datetime or category types).
+- At first, the columns' types were checked. Also, the presence of missing (null), and duplicated values was investigated. Several data types were changed (e.g., to datetime or category types).
 Two additional columns, "Profit margin" and "Shipping time", were created. Box plots to display Sales and Profits were added.
 
 
