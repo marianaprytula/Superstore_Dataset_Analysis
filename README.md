@@ -1,7 +1,7 @@
 ## Superstore Dataset Analysis Using Python
 
 
-- This project presents a Tableau visualization for analyzing the [Superstore Dataset ](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) from Kaggle. 
+- This project presents visuals for analyzing the [Superstore Dataset ](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) from Kaggle. 
 ---
 
 ### Project Overview
